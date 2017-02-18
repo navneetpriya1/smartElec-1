@@ -1,0 +1,10 @@
+Django==1.7
+gunicorn==19.6.0
+requests
+whitenoise
+reportlab
+beautifulsoup4==4.3.2
+sklearn
+numpy
+scipy
+pandas
