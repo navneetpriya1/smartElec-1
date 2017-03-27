@@ -59,7 +59,7 @@ def exactPrice(request):
 
 
 def ideal_surplus2():
-
+	#added comments
     # os.chdir(r'/home/vishrut/Desktop/smartgrid/server/isgw/Smartelec')
     dataset = pd.read_csv('static/weather.csv')
     X = dataset.iloc[:, :-1].values
